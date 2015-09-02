@@ -7,3 +7,5 @@ name := "sbt-plugin-sonatype"
 organization := "morgaroth"
 
 scalaVersion := "2.11.6"
+
+version := "1.0c"

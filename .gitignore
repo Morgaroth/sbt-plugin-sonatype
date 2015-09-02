@@ -1,4 +1,4 @@
 project/project
 target
 .idea
-project-test
+sbt-test-project
