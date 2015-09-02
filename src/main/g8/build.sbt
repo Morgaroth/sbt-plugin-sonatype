@@ -1,6 +1,6 @@
 sbtPlugin := true
 
-name := "$plugin_name$"
+name := """$name$"""
 
 organization := """$organization$"""
 
